@@ -17,5 +17,3 @@ I'm a self-taught developer currently completing my Class 12 studies in India. I
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ch4lkP0wd3r&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
